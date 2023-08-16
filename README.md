@@ -1,1 +1,2 @@
 # SQL-Project---Cosmetic-manufacturing-company
+Hello visitors, here i've made a project based on SQL.The topic of my project is Cosmetic Manufacturing Company. As wwe know in todays world there are many manufacturing units are there in different field where large number of production takes place and workers need to note down every detail about each step. So here i tried to show how using database instead of spreadsheets made easier to store any detail, retrieve a specific information or manipulate the data easily without actually loosing the main data.
